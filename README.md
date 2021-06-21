@@ -34,7 +34,7 @@ Grizzly is a messaging application that provides functionality like Messaging, C
 
 ## Installation
 
-   Clone the Project into your local machine using command `git clone https://github.com/rohitrana17/search-genix.git` .
+   Clone the Project into your local machine using command `git clone https://github.com/rohitrana17/grizzly-messaging-app.git` .
 
    Open terminal and head over to the project directory .
 
