@@ -1,7 +1,7 @@
 # Grizzly-Messaging-App
 Grizzly is a messaging application that provides functionality like Messaging, Creating multiple channels, File Upload, User Profile Update,  Color Customization and Metadata panels.
 
-### You can view the project [here](https://grizzly-messaging.netlify.app/). 
+### You can view the project [here](https://grizzly-web-messaging.netlify.app/). 
 
 ## Tech Stack 
 
